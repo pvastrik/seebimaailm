@@ -1,0 +1,58 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#footerupper {
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-basis:content;
+}
+
+.carousel-inner img {
+    width:100%;
+    height:auto;
+
+}
+hr {
+    border-color: #969696;
+    border-width: 5px;
+    width:90%;
+    margin-top:20px;
+}
